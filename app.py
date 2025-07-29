@@ -2,7 +2,7 @@ import streamlit as st
 from pyzbar.pyzbar import decode
 from PIL import Image
 # 
-st.title("QR Code Decoder")
+st.title("QR to Text Decoder")
 
 uploaded_file = st.file_uploader("Upload a QR ", type=["png", "jpg", "jpeg"])
 
