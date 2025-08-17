@@ -1,6 +1,6 @@
 # QR Code Generator and Decoder
 
-Quick Response code tool built with Streamlit - Fast and convenient usage.
+Quick Response code tool built with Streamlit - fast and convenient usage.
 
 ## Features
 
