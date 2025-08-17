@@ -27,3 +27,9 @@ Quick Response code tool built with Streamlit - fast and convenient usage.
    ```bash
    pip install -r requirements.txt
    ```
+
+4. Run the app:
+
+   ```bash
+    streamlit run home.py
+   ```
