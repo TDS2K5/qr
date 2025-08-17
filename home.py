@@ -9,15 +9,5 @@ st.markdown(
     """
     )
 
-def intro():
-    import streamlit as st
 
-    st.write("# QR Code Generator and Decoder")
-
-    st.markdown(
-        """
-        Streamlit is an open-source app framework built specifically for
-        Machine Learning and Data Science projects.
-    """
-    )
 
