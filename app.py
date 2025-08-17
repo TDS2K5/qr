@@ -14,3 +14,4 @@ if uploaded_file is not None:
         st.success(f"Decoded text: {result[0].data.decode('utf-8')}")
     else:
         st.warning("No QR code found.")
+        # 
